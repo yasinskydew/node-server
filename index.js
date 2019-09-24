@@ -37,5 +37,5 @@ const server = http.createServer(function (req, res) {
 })
 
 server.listen(port, function(){
-    console.log(`server is on port ${3000}`)
+    console.log(`server is on port ${port}`)
 });
