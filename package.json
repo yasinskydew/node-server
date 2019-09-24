@@ -1,0 +1,14 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "node js server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
